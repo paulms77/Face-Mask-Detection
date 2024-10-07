@@ -12,7 +12,7 @@
 - [Face Recognition](https://github.com/ageitgey/face_recognition)
 - [Scikit-Learn](https://scikit-learn.org/stable/)
 - [Matplotlib](https://matplotlib.org/)
-- [Python Image]([https://pypi.org/project/pillow/](https://github.com/python-pillow/Pillow))
+- [Python Image](https://pypi.org/project/pillow/)
 - [NumPy](https://numpy.org/)
 
 
@@ -96,10 +96,12 @@ $ python3 face-mask-detection.py
 
 ### ⚠️ 기존 시스템의 문제점 해결
 기존의 모델은 다양한 색상의 마스크를 감지하거나 부적절한 마스크 착용(코 마스크, 턱 마스크)을 감지하는 데 어려움을 겪고 있습니다.
+
 또한 환경적 요인에 따라 정확도가 급격히 떨어지는 경우가 존재합니다.
 
 > 이를 해결하기 위해서 다양한 색상의 마스크 착용 이미지와 부적절한 마스크 착용 얼굴 이미지를 추가적으로 생성하고 이미지 증강 과정을 통해 개선하였습니다.
 
 
 ## License
+[MIT LICENSE](https://github.com/paulms77/Face-Mask-Detection-System/blob/main/LICENSE)
 
