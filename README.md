@@ -3,7 +3,6 @@
 
 : 얼굴 마스크 착용 여부 시스템은 비디오 혹은 실시간 웹캠에서 마스크 착용 여부를 감지합니다.
 
-
 ## Dependencies
 - [OpenCV](https://opencv.org/)
 - [Caffe-based face detector](https://caffe.berkeleyvision.org/)
@@ -77,6 +76,7 @@
 video_path = './input.mp4'
 vs = cv2.VideoCapture(video_path)
 ```
+<img width="400" alt="스크린샷 2024-10-08 오후 2 57 10" src="https://github.com/user-attachments/assets/0810d821-af61-438f-9e43-b966570efdc0">
 
 ##  실시간 웹캠으로 실행할 경우
 ```
@@ -91,10 +91,10 @@ $ python3 face-mask-detection.py
 
 ## 학습 결과
 * ### plot 결과:
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ab248597-6823-46f8-91c5-0cf49dc107ff">
 
-  
 * ### classification_report 결과:
-
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/46ec7974-b0bf-481a-b85e-7dbcbba23b56">
 
 ### ⚠️ 기존 시스템의 문제점 해결
 기존의 모델은 다양한 색상의 마스크를 감지하거나 부적절한 마스크 착용(코 마스크, 턱 마스크)을 감지하는 데 어려움을 겪고 있습니다.
