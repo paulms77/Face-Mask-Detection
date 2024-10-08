@@ -1,7 +1,7 @@
 # Face-Mask-Detection-System
 얼굴 마스크 착용 여부 시스템(Face Mask Detection System)
 
-: 얼굴 마스크 착용 여부 시스템은 비디오 혹은 실시간 웹캠에서 마스크 착용 여부를 감지합니다.
+> 얼굴 마스크 착용 여부 시스템은 비디오 혹은 실시간 웹캠에서 마스크 착용 여부를 감지합니다.
 
 ## Dependencies
 - [OpenCV](https://opencv.org/)
