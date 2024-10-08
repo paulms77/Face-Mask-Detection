@@ -55,9 +55,9 @@
     * ##### brightness(밝기)=0.2, contrast(대비)=0.2, saturation(채도)=0.2, hue(색조)=0.2
        * ###### : 실제로 실내 및 실외 환경, 조명이 좋지 않은 경우 또는 카메라 설정으로 촬용한 이미지와 같은 다양한 환경을 시뮬레이션합니다. 이는 조명과 색상 변화에 대한 견고성을 높여 이미지 밝기나 색상 변화의 차이에 관계없이 일반화하도록 합니다.
 
- * #### Result (결과):
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/b9f6a6e0-ceb2-41f2-b350-bdac39d45129">
+   * #### Result (결과):
+  
+   <img width="500" alt="image" src="https://github.com/user-attachments/assets/b9f6a6e0-ceb2-41f2-b350-bdac39d45129">
 
 * ### 마스크 착용 여부 인식 시스템
   * #### 신경망 네트워크 구조
