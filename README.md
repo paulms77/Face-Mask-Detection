@@ -77,7 +77,6 @@
 video_path = './input.mp4'
 vs = cv2.VideoCapture(video_path)
 ```
-<img width="400" alt="스크린샷 2024-10-08 오후 2 57 10" src="https://github.com/user-attachments/assets/0810d821-af61-438f-9e43-b966570efdc0">
 
 ##  실시간 웹캠으로 실행할 경우
 ```
