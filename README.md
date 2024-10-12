@@ -89,7 +89,7 @@ vs = cv2.VideoCapture(0)
 ```
 $ python3 face-mask-detection.py
 ```
-
+<img src="https://github.com/user-attachments/assets/359d6f18-cf6e-4443-9259-ed281f8b04e8">
 
 ## 학습 결과
 * ### plot 결과:
