@@ -83,7 +83,6 @@ vs = cv2.VideoCapture(video_path)
 ```
 vs = cv2.VideoCapture(0)
 ```
-<img src="https://github.com/paulms77/Face-Mask-Detection/issues/5#issuecomment-2560689246">
 
 ## 얼굴 마스크 착용 여부 시스템 실행하기
 ```
